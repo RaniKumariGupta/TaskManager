@@ -44,7 +44,7 @@ This repository contains a **Task Manager** application built using **Angular** 
     cd frontend
 2. Install Dependencies:
     ``` bash
-    cd frontend
+    npm install
 3. Start the Angular development server:
      ``` bash
      ng seve
