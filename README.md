@@ -49,5 +49,5 @@ This repository contains a **Task Manager** application built using **Angular** 
     npm install
 3. Start the Angular development server:
      ``` bash
-     ng seve
+     ng serve
    
