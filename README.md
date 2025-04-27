@@ -40,7 +40,7 @@ This repository contains a **Task Manager** application built using **Angular** 
     ``` bash
     nodemon app.js
    
-### fRONTEND Setup (Angular)
+### FRONTEND Setup (Angular)
 1. Navigate to the frontend directory:
     ``` bash
     cd frontend
