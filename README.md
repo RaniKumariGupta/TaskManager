@@ -23,6 +23,7 @@ This repository contains a **Task Manager** application built using **Angular** 
 - **MongoDB** for storing tasks and user information
 - **JWT (JSON Web Tokens)** for secure authentication
 - **Bcrypt** for hashing user passwords
+- **express-validator** for validation
 
 ## Setup
 
@@ -35,10 +36,11 @@ This repository contains a **Task Manager** application built using **Angular** 
     ``` bash
     npm install
 3. Set up MongoDB and create a .env file with appropriate settings.
-4.  ``` bash
+4. Start the backend server:
+    ``` bash
     nodemon app.js
    
-### Backend Setup (Angular)
+### fRONTEND Setup (Angular)
 1. Navigate to the frontend directory:
     ``` bash
     cd frontend
